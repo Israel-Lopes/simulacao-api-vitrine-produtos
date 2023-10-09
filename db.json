@@ -1,0 +1,116 @@
+{
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "GLIFAGE XR 500MG 30 COMPRIMIDOS DE AÇÃO PROLONGADA",
+        "preco": "7,70",
+        "img": "/api/upload/tarja_vermelha.webp",
+        "descricao": [
+          "Indicações: Está indicado como agente antidiabético, associado ao regime alimentar, para o tratamento de Diabetes do Tipo II, não dependente de insulina (diabetes da maturidade, diabetes do",
+          "obeso, diabetes em adultos de peso normal), isoladamente ou complementando a ação das sulfoniluréias; Diabetes do Tipo I, dependente de insulina: como complemento da insulinoterapia em",
+          "casos de diabetes instável ou insulino-resistente. Também é indicado na Síndrome dos Ovários Policísticos. ",
+          "Contraindicações: Está contraindicada nos casos de reconhecida hipersensibilidade à qualquer um dos componentes da fórmula; em casos de insuficiência cardíaca congestiva que requer",
+          "tratamento medicamentoso; infarto agudo do miocárdio; gravidez; insuficiência renal orgânica ou funcional; patologias agudas comportando risco de alteração da função renal: desidratação",
+          "(diarréias, vômitos), febre, estados infecciosos e/ou hipóxicos graves (choque, septicemia, infecção urinária, pneumopatia); insuficiência hepatocelular; consumo excessivo de álcool agudo ou",
+          "crônico; descompensação cetoacidótica e pré-coma diabético.",
+          "Reações adversas: Pode causar alterações gastrointestinais, como náusea, vômito e diarreia."
+        ]
+      },
+      {
+        "id": 2,
+        "nome": "ROSUVASTATINA 20MG 30 COMPRIMIDOS - LEGRAND - GENÉRICO",
+        "preco": "13,99",
+        "img": "/api/upload/tarja_vermelha_generico.jpg",
+        "descricao": [
+          "Indicações: Está indicado como agente antidiabético, associado ao regime alimentar, para o tratamento de Diabetes do Tipo II, não dependente de insulina (diabetes da maturidade, diabetes do",
+          "obeso, diabetes em adultos de peso normal), isoladamente ou complementando a ação das sulfoniluréias; Diabetes do Tipo I, dependente de insulina: como complemento da insulinoterapia em",
+          "casos de diabetes instável ou insulino-resistente. Também é indicado na Síndrome dos Ovários Policísticos. ",
+          "Contraindicações: Está contraindicada nos casos de reconhecida hipersensibilidade à qualquer um dos componentes da fórmula; em casos de insuficiência cardíaca congestiva que requer",
+          "tratamento medicamentoso; infarto agudo do miocárdio; gravidez; insuficiência renal orgânica ou funcional; patologias agudas comportando risco de alteração da função renal: desidratação",
+          "(diarréias, vômitos), febre, estados infecciosos e/ou hipóxicos graves (choque, septicemia, infecção urinária, pneumopatia); insuficiência hepatocelular; consumo excessivo de álcool agudo ou",
+          "crônico; descompensação cetoacidótica e pré-coma diabético.",
+          "Reações adversas: Pode causar alterações gastrointestinais, como náusea, vômito e diarreia."
+        ]
+      },
+      {
+        "id": 3,
+        "nome": "LORATADINA - LORATAMED 10MG 12 COMPRIMIDOS",
+        "preco": "2,99",
+        "img": "/api/upload/medium-637244714298578365-134908_2.jpg",
+        "descricao": [
+          "Indicações: Está indicado como agente antidiabético, associado ao regime alimentar, para o tratamento de Diabetes do Tipo II, não dependente de insulina (diabetes da maturidade, diabetes do",
+          "obeso, diabetes em adultos de peso normal), isoladamente ou complementando a ação das sulfoniluréias; Diabetes do Tipo I, dependente de insulina: como complemento da insulinoterapia em",
+          "casos de diabetes instável ou insulino-resistente. Também é indicado na Síndrome dos Ovários Policísticos. ",
+          "Contraindicações: Está contraindicada nos casos de reconhecida hipersensibilidade à qualquer um dos componentes da fórmula; em casos de insuficiência cardíaca congestiva que requer",
+          "tratamento medicamentoso; infarto agudo do miocárdio; gravidez; insuficiência renal orgânica ou funcional; patologias agudas comportando risco de alteração da função renal: desidratação",
+          "(diarréias, vômitos), febre, estados infecciosos e/ou hipóxicos graves (choque, septicemia, infecção urinária, pneumopatia); insuficiência hepatocelular; consumo excessivo de álcool agudo ou",
+          "crônico; descompensação cetoacidótica e pré-coma diabético.",
+          "Reações adversas: Pode causar alterações gastrointestinais, como náusea, vômito e diarreia."
+        ]
+      },
+      {
+        "id": 4,
+        "nome": "ANALGÉSICO - DORFLEX 36 COMPRIMIDOS",
+        "preco": "18,94",
+        "img": "/api/upload/medium-637898911406409816-807587_6.jpg",
+        "descricao": [
+          "Indicações: Está indicado como agente antidiabético, associado ao regime alimentar, para o tratamento de Diabetes do Tipo II, não dependente de insulina (diabetes da maturidade, diabetes do",
+          "obeso, diabetes em adultos de peso normal), isoladamente ou complementando a ação das sulfoniluréias; Diabetes do Tipo I, dependente de insulina: como complemento da insulinoterapia em",
+          "casos de diabetes instável ou insulino-resistente. Também é indicado na Síndrome dos Ovários Policísticos. ",
+          "Contraindicações: Está contraindicada nos casos de reconhecida hipersensibilidade à qualquer um dos componentes da fórmula; em casos de insuficiência cardíaca congestiva que requer",
+          "tratamento medicamentoso; infarto agudo do miocárdio; gravidez; insuficiência renal orgânica ou funcional; patologias agudas comportando risco de alteração da função renal: desidratação",
+          "(diarréias, vômitos), febre, estados infecciosos e/ou hipóxicos graves (choque, septicemia, infecção urinária, pneumopatia); insuficiência hepatocelular; consumo excessivo de álcool agudo ou",
+          "crônico; descompensação cetoacidótica e pré-coma diabético.",
+          "Reações adversas: Pode causar alterações gastrointestinais, como náusea, vômito e diarreia."
+        ]
+      },
+      {
+        "id": 5,
+        "nome": "PARACETAMOL + CLORFENIRAMINA+FENILEFRINA - CIMEGRIPE 20 CÁPSULAS",
+        "preco": "9,85",
+        "img": "/api/upload/medium-637846982244360020-49973_2.jpg",
+        "descricao": [
+          "Indicações: Está indicado como agente antidiabético, associado ao regime alimentar, para o tratamento de Diabetes do Tipo II, não dependente de insulina (diabetes da maturidade, diabetes do",
+          "obeso, diabetes em adultos de peso normal), isoladamente ou complementando a ação das sulfoniluréias; Diabetes do Tipo I, dependente de insulina: como complemento da insulinoterapia em",
+          "casos de diabetes instável ou insulino-resistente. Também é indicado na Síndrome dos Ovários Policísticos. ",
+          "Contraindicações: Está contraindicada nos casos de reconhecida hipersensibilidade à qualquer um dos componentes da fórmula; em casos de insuficiência cardíaca congestiva que requer",
+          "tratamento medicamentoso; infarto agudo do miocárdio; gravidez; insuficiência renal orgânica ou funcional; patologias agudas comportando risco de alteração da função renal: desidratação",
+          "(diarréias, vômitos), febre, estados infecciosos e/ou hipóxicos graves (choque, septicemia, infecção urinária, pneumopatia); insuficiência hepatocelular; consumo excessivo de álcool agudo ou",
+          "crônico; descompensação cetoacidótica e pré-coma diabético.",
+          "Reações adversas: Pode causar alterações gastrointestinais, como náusea, vômito e diarreia."
+        ]
+      },
+      {
+        "id": 6,
+        "nome": "DIPIRONA+ISOMETEPTENO+CAFEÍNA - DORALGINA 20 DRÁGEAS",
+        "preco": "9,99",
+        "img": "/api/upload/large-637425085278725620-128678_2.png",
+        "descricao": [
+          "Indicações: Está indicado como agente antidiabético, associado ao regime alimentar, para o tratamento de Diabetes do Tipo II, não dependente de insulina (diabetes da maturidade, diabetes do",
+          "obeso, diabetes em adultos de peso normal), isoladamente ou complementando a ação das sulfoniluréias; Diabetes do Tipo I, dependente de insulina: como complemento da insulinoterapia em",
+          "casos de diabetes instável ou insulino-resistente. Também é indicado na Síndrome dos Ovários Policísticos. ",
+          "Contraindicações: Está contraindicada nos casos de reconhecida hipersensibilidade à qualquer um dos componentes da fórmula; em casos de insuficiência cardíaca congestiva que requer",
+          "tratamento medicamentoso; infarto agudo do miocárdio; gravidez; insuficiência renal orgânica ou funcional; patologias agudas comportando risco de alteração da função renal: desidratação",
+          "(diarréias, vômitos), febre, estados infecciosos e/ou hipóxicos graves (choque, septicemia, infecção urinária, pneumopatia); insuficiência hepatocelular; consumo excessivo de álcool agudo ou",
+          "crônico; descompensação cetoacidótica e pré-coma diabético.",
+          "Reações adversas: Pode causar alterações gastrointestinais, como náusea, vômito e diarreia."
+        ]
+      },
+      {
+        "id": 7,
+        "nome": "AAS 100MG INFANTIL 30 COMPRIMIDOS - EMS - GENÉRICO",
+        "preco": "5,69",
+        "img": "/api/upload/large-767582.jpglarge-767582.jpg",
+        "descricao": [
+          "Indicações: Está indicado como agente antidiabético, associado ao regime alimentar, para o tratamento de Diabetes do Tipo II, não dependente de insulina (diabetes da maturidade, diabetes do",
+          "obeso, diabetes em adultos de peso normal), isoladamente ou complementando a ação das sulfoniluréias; Diabetes do Tipo I, dependente de insulina: como complemento da insulinoterapia em",
+          "casos de diabetes instável ou insulino-resistente. Também é indicado na Síndrome dos Ovários Policísticos. ",
+          "Contraindicações: Está contraindicada nos casos de reconhecida hipersensibilidade à qualquer um dos componentes da fórmula; em casos de insuficiência cardíaca congestiva que requer",
+          "tratamento medicamentoso; infarto agudo do miocárdio; gravidez; insuficiência renal orgânica ou funcional; patologias agudas comportando risco de alteração da função renal: desidratação",
+          "(diarréias, vômitos), febre, estados infecciosos e/ou hipóxicos graves (choque, septicemia, infecção urinária, pneumopatia); insuficiência hepatocelular; consumo excessivo de álcool agudo ou",
+          "crônico; descompensação cetoacidótica e pré-coma diabético.",
+          "Reações adversas: Pode causar alterações gastrointestinais, como náusea, vômito e diarreia."
+        ]
+      }
+    ]
+  }
